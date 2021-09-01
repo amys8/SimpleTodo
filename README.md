@@ -4,7 +4,7 @@
 
 Submitted by: **Amy Shen**
 
-Time spent: **4** hours spent in total
+Time spent: **5** hours spent in total
 
 ## User Stories
 
@@ -34,9 +34,11 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
+I encountered a challenge when implementing the **remove items** feature. The app would crash when long clicking on an item, which occurred because I declared the itemsAdapter variable twice.
+
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2021 Amy Shen
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
